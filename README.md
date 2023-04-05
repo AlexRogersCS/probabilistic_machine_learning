@@ -1,6 +1,6 @@
 # Probabilistic Machine Learning
 
-This is a short course on probabilistic machine learning using Python 3.8 and PyMC3. The course is focussed on the practical application of probabilistic modelling and most of the material is presented in Jupyter notebooks using Python.
+This is a short course on probabilistic machine learning using Python and PyMC. The course is focussed on the practical application of probabilistic modelling and most of the material is presented in Jupyter notebooks using Python.
 
 Two books are particularly useful for this course:
 
